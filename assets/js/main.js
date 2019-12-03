@@ -251,7 +251,7 @@
 
 	
 	/*----------  slick slider activation  ----------*/
-	var $lezadaSlickSlider = $('.lezada-slick-slider');
+	var $lezadaSlickSlider = $('.Prasi-slick-slider');
     
     /*For RTL*/
     if( $html.attr("dir") == "rtl" || $body.attr("dir") == "rtl" ){

@@ -277,7 +277,7 @@ a.scroll-top {
     transform: translateX(-50%); }
 
 /*----------  form  ----------*/
-.lezada-form form input[type="text"], .lezada-form form input[type="email"], .lezada-form form input[type="password"], .lezada-form form textarea {
+.Prasi-form form input[type="text"], .Prasi-form form input[type="email"], .Prasi-form form input[type="password"], .Prasi-form form textarea {
   font-size: 14px;
   display: block;
   color: #333;
@@ -289,38 +289,38 @@ a.scroll-top {
   background: transparent;
   border-bottom: 2px solid #cccccc;
   padding: 9.5px 0; }
-  .lezada-form form input[type="text"]:hover, .lezada-form form input[type="text"]:active, .lezada-form form input[type="text"]:focus, .lezada-form form input[type="email"]:hover, .lezada-form form input[type="email"]:active, .lezada-form form input[type="email"]:focus, .lezada-form form input[type="password"]:hover, .lezada-form form input[type="password"]:active, .lezada-form form input[type="password"]:focus, .lezada-form form textarea:hover, .lezada-form form textarea:active, .lezada-form form textarea:focus {
+  .Prasi-form form input[type="text"]:hover, .Prasi-form form input[type="text"]:active, .Prasi-form form input[type="text"]:focus, .Prasi-form form input[type="email"]:hover, .Prasi-form form input[type="email"]:active, .Prasi-form form input[type="email"]:focus, .Prasi-form form input[type="password"]:hover, .Prasi-form form input[type="password"]:active, .Prasi-form form input[type="password"]:focus, .Prasi-form form textarea:hover, .Prasi-form form textarea:active, .Prasi-form form textarea:focus {
     border-bottom-color: #333; }
 
-.lezada-form form ::-webkit-input-placeholder {
+.Prasi-form form ::-webkit-input-placeholder {
   /* Chrome, Firefox, Opera, Safari 10.1+ */
   color: #777;
   opacity: 1;
   /* Firefox */ }
 
-.lezada-form form :-ms-input-placeholder {
+.Prasi-form form :-ms-input-placeholder {
   /* Chrome, Firefox, Opera, Safari 10.1+ */
   color: #777;
   opacity: 1;
   /* Firefox */ }
 
-.lezada-form form ::-ms-input-placeholder {
+.Prasi-form form ::-ms-input-placeholder {
   /* Chrome, Firefox, Opera, Safari 10.1+ */
   color: #777;
   opacity: 1;
   /* Firefox */ }
 
-.lezada-form form ::placeholder {
+.Prasi-form form ::placeholder {
   /* Chrome, Firefox, Opera, Safari 10.1+ */
   color: #777;
   opacity: 1;
   /* Firefox */ }
 
-.lezada-form form :-ms-input-placeholder {
+.Prasi-form form :-ms-input-placeholder {
   /* Internet Explorer 10-11 */
   color: #777; }
 
-.lezada-form form ::-ms-input-placeholder {
+.Prasi-form form ::-ms-input-placeholder {
   /* Microsoft Edge */
   color: #777; }
 
@@ -1506,7 +1506,7 @@ nav.site-nav > ul > li {
         left: 45%; } }
     @media only screen and (min-width: 992px) and (max-width: 1199px) {
       .header-split .header-bottom .header-bottom-container .logo-with-offcanvas .logo {
-        left: 39%; } }
+        left: 36%; } }
     @media only screen and (min-width: 768px) and (max-width: 991px) {
       .header-split .header-bottom .header-bottom-container .logo-with-offcanvas .logo {
         position: relative;
@@ -3937,11 +3937,11 @@ nav.site-nav > ul > li {
       .decor-single-slider-content .slider-content {
         left: 30px; } }
     @media only screen and (max-width: 575px) {
-      .decor-single-slider-content .slider-content a.lezada-button {
+      .decor-single-slider-content .slider-content a.Prasi-button {
         font-size: 12px;
         padding: 10px 20px; } }
     @media only screen and (max-width: 479px) {
-      .decor-single-slider-content .slider-content a.lezada-button {
+      .decor-single-slider-content .slider-content a.Prasi-button {
         font-size: 10px;
         padding: 5px 15px; } }
   .decor-single-slider-content .color-title {
@@ -4236,126 +4236,126 @@ nav.site-nav > ul > li {
         .shop-product__small-image-gallery-slider:hover .slick-arrow.slick-prev {
           left: 10px; } }
 
-.lezada-slick-slider--fullscreen {
+.Prasi-slick-slider--fullscreen {
   position: relative;
   height: 700px; }
   @media only screen and (min-width: 1200px) and (max-width: 1499px) {
-    .lezada-slick-slider--fullscreen {
+    .Prasi-slick-slider--fullscreen {
       height: 600px; } }
   @media only screen and (min-width: 768px) and (max-width: 991px) {
-    .lezada-slick-slider--fullscreen {
+    .Prasi-slick-slider--fullscreen {
       height: 500px; } }
   @media only screen and (max-width: 767px) {
-    .lezada-slick-slider--fullscreen {
+    .Prasi-slick-slider--fullscreen {
       height: 500px; } }
   @media only screen and (max-width: 479px) {
-    .lezada-slick-slider--fullscreen {
+    .Prasi-slick-slider--fullscreen {
       height: 400px; } }
-  .lezada-slick-slider--fullscreen .slick-list, .lezada-slick-slider--fullscreen .slick-track, .lezada-slick-slider--fullscreen .slick-slide > div {
+  .Prasi-slick-slider--fullscreen .slick-list, .Prasi-slick-slider--fullscreen .slick-track, .Prasi-slick-slider--fullscreen .slick-slide > div {
     height: 100%; }
-  .lezada-slick-slider--fullscreen .slick-active .lezada-single-slider__content * {
+  .Prasi-slick-slider--fullscreen .slick-active .Prasi-single-slider__content * {
     -webkit-animation-name: fadeInUp;
     animation-name: fadeInUp;
     -webkit-animation-fill-mode: both;
     animation-fill-mode: both; }
-  .lezada-slick-slider--fullscreen .slick-active .lezada-single-slider__content .subtitle {
+  .Prasi-slick-slider--fullscreen .slick-active .Prasi-single-slider__content .subtitle {
     -webkit-animation-duration: 1s;
     animation-duration: 1s;
     -webkit-animation-delay: 0.2s;
     animation-delay: 0.2s; }
-  .lezada-slick-slider--fullscreen .slick-active .lezada-single-slider__content .main-title {
+  .Prasi-slick-slider--fullscreen .slick-active .Prasi-single-slider__content .main-title {
     -webkit-animation-duration: 1.5s;
     animation-duration: 1.5s;
     -webkit-animation-delay: 0.2s;
     animation-delay: 0.2s; }
-  .lezada-slick-slider--fullscreen .slick-active .lezada-single-slider__content .lezada-button {
+  .Prasi-slick-slider--fullscreen .slick-active .Prasi-single-slider__content .Prasi-button {
     -webkit-animation-duration: 2.5s;
     animation-duration: 2.5s;
     -webkit-animation-delay: 0.3s;
     animation-delay: 0.3s; }
-  .lezada-slick-slider--fullscreen .lezada-single-slider {
+  .Prasi-slick-slider--fullscreen .Prasi-single-slider {
     height: 100%;
     width: 100%; }
-    .lezada-slick-slider--fullscreen .lezada-single-slider__content {
+    .Prasi-slick-slider--fullscreen .Prasi-single-slider__content {
       padding-right: 30px; }
       @media only screen and (min-width: 768px) and (max-width: 991px), only screen and (max-width: 767px) {
-        .lezada-slick-slider--fullscreen .lezada-single-slider__content {
+        .Prasi-slick-slider--fullscreen .Prasi-single-slider__content {
           padding: 0 15px; } }
-      .lezada-slick-slider--fullscreen .lezada-single-slider__content .subtitle {
+      .Prasi-slick-slider--fullscreen .Prasi-single-slider__content .subtitle {
         font-size: 16px;
         font-weight: 600;
         text-transform: uppercase;
         margin-bottom: 33px;
         color: #ffffff; }
-        .lezada-slick-slider--fullscreen .lezada-single-slider__content .subtitle--black {
+        .Prasi-slick-slider--fullscreen .Prasi-single-slider__content .subtitle--black {
           color: #333; }
-      .lezada-slick-slider--fullscreen .lezada-single-slider__content .main-title {
+      .Prasi-slick-slider--fullscreen .Prasi-single-slider__content .main-title {
         font-size: 56px;
         line-height: 71px;
         margin-bottom: 35px;
         color: #ffffff; }
-        .lezada-slick-slider--fullscreen .lezada-single-slider__content .main-title--black {
+        .Prasi-slick-slider--fullscreen .Prasi-single-slider__content .main-title--black {
           color: #333; }
         @media only screen and (max-width: 767px) {
-          .lezada-slick-slider--fullscreen .lezada-single-slider__content .main-title {
+          .Prasi-slick-slider--fullscreen .Prasi-single-slider__content .main-title {
             font-size: 40px;
             line-height: 60px; } }
         @media only screen and (max-width: 479px) {
-          .lezada-slick-slider--fullscreen .lezada-single-slider__content .main-title {
+          .Prasi-slick-slider--fullscreen .Prasi-single-slider__content .main-title {
             font-size: 30px;
             line-height: 40px; } }
-      .lezada-slick-slider--fullscreen .lezada-single-slider__content .lezada-button {
+      .Prasi-slick-slider--fullscreen .Prasi-single-slider__content .Prasi-button {
         background-color: #ffffff;
         color: #333 !important;
         border-color: #ffffff; }
-        .lezada-slick-slider--fullscreen .lezada-single-slider__content .lezada-button:hover {
+        .Prasi-slick-slider--fullscreen .Prasi-single-slider__content .Prasi-button:hover {
           background-color: transparent;
           color: #ffffff !important;
           border-color: #ffffff; }
-        .lezada-slick-slider--fullscreen .lezada-single-slider__content .lezada-button--red {
+        .Prasi-slick-slider--fullscreen .Prasi-single-slider__content .Prasi-button--red {
           background-color: #d3122a;
           border-color: #d3122a;
           color: #ffffff !important; }
-        .lezada-slick-slider--fullscreen .lezada-single-slider__content .lezada-button--dark {
+        .Prasi-slick-slider--fullscreen .Prasi-single-slider__content .Prasi-button--dark {
           background-color: #333;
           color: #fff !important;
           border-color: #333; }
-          .lezada-slick-slider--fullscreen .lezada-single-slider__content .lezada-button--dark:hover {
+          .Prasi-slick-slider--fullscreen .Prasi-single-slider__content .Prasi-button--dark:hover {
             background-color: transparent;
             color: #333 !important;
             border-color: #333; }
-      .lezada-slick-slider--fullscreen .lezada-single-slider__content--spectral-style {
+      .Prasi-slick-slider--fullscreen .Prasi-single-slider__content--spectral-style {
         padding-left: 15px;
         padding-top: 100px; }
         @media only screen and (min-width: 768px) and (max-width: 991px) {
-          .lezada-slick-slider--fullscreen .lezada-single-slider__content--spectral-style {
+          .Prasi-slick-slider--fullscreen .Prasi-single-slider__content--spectral-style {
             padding-top: 60px; } }
         @media only screen and (max-width: 767px) {
-          .lezada-slick-slider--fullscreen .lezada-single-slider__content--spectral-style {
+          .Prasi-slick-slider--fullscreen .Prasi-single-slider__content--spectral-style {
             padding-top: 50px; } }
-        .lezada-slick-slider--fullscreen .lezada-single-slider__content--spectral-style .subtitle {
+        .Prasi-slick-slider--fullscreen .Prasi-single-slider__content--spectral-style .subtitle {
           font-family: "Spectral", serif;
           font-weight: 300;
           font-style: italic;
           text-transform: capitalize; }
-        .lezada-slick-slider--fullscreen .lezada-single-slider__content--spectral-style .main-title {
+        .Prasi-slick-slider--fullscreen .Prasi-single-slider__content--spectral-style .main-title {
           font-family: "Spectral", serif; }
-        .lezada-slick-slider--fullscreen .lezada-single-slider__content--spectral-style .lezada-button {
+        .Prasi-slick-slider--fullscreen .Prasi-single-slider__content--spectral-style .Prasi-button {
           background-color: transparent;
           color: #ffffff !important; }
-          .lezada-slick-slider--fullscreen .lezada-single-slider__content--spectral-style .lezada-button:hover {
+          .Prasi-slick-slider--fullscreen .Prasi-single-slider__content--spectral-style .Prasi-button:hover {
             background-color: #ffffff;
             color: #333 !important; }
-    .lezada-slick-slider--fullscreen .lezada-single-slider--overlay {
+    .Prasi-slick-slider--fullscreen .Prasi-single-slider--overlay {
       position: relative; }
-      .lezada-slick-slider--fullscreen .lezada-single-slider--overlay:before {
+      .Prasi-slick-slider--fullscreen .Prasi-single-slider--overlay:before {
         position: absolute;
         content: "";
         background: #000000;
         opacity: 0.4;
         width: 100%;
         height: 100%; }
-  .lezada-slick-slider--fullscreen .slick-arrow {
+  .Prasi-slick-slider--fullscreen .slick-arrow {
     position: absolute;
     top: 50%;
     background: #fff;
@@ -4378,18 +4378,18 @@ nav.site-nav > ul > li {
     border: none;
     z-index: 3; }
     @media only screen and (max-width: 767px) {
-      .lezada-slick-slider--fullscreen .slick-arrow {
+      .Prasi-slick-slider--fullscreen .slick-arrow {
         display: none; } }
-    .lezada-slick-slider--fullscreen .slick-arrow:hover {
+    .Prasi-slick-slider--fullscreen .slick-arrow:hover {
       background-color: #333;
       color: #ffffff; }
-    .lezada-slick-slider--fullscreen .slick-arrow.slick-prev {
+    .Prasi-slick-slider--fullscreen .slick-arrow.slick-prev {
       left: 15px;
       right: auto; }
-    .lezada-slick-slider--fullscreen .slick-arrow.slick-next {
+    .Prasi-slick-slider--fullscreen .slick-arrow.slick-next {
       right: 15px;
       left: auto; }
-  .lezada-slick-slider--fullscreen .slick-dots {
+  .Prasi-slick-slider--fullscreen .slick-dots {
     position: absolute;
     left: 50%;
     bottom: 30px;
@@ -4399,7 +4399,7 @@ nav.site-nav > ul > li {
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex; }
-    .lezada-slick-slider--fullscreen .slick-dots li button {
+    .Prasi-slick-slider--fullscreen .slick-dots li button {
       font-size: 0;
       width: 12px;
       height: 12px;
@@ -4407,61 +4407,61 @@ nav.site-nav > ul > li {
       margin: 0 5px;
       border-radius: 50%;
       border: none; }
-    .lezada-slick-slider--fullscreen .slick-dots li.slick-active button {
+    .Prasi-slick-slider--fullscreen .slick-dots li.slick-active button {
       background: #fff; }
-  .lezada-slick-slider--fullscreen:hover .slick-arrow {
+  .Prasi-slick-slider--fullscreen:hover .slick-arrow {
     visibility: visible;
     opacity: 1; }
-    .lezada-slick-slider--fullscreen:hover .slick-arrow.slick-prev {
+    .Prasi-slick-slider--fullscreen:hover .slick-arrow.slick-prev {
       left: 30px;
       right: auto; }
-    .lezada-slick-slider--fullscreen:hover .slick-arrow.slick-next {
+    .Prasi-slick-slider--fullscreen:hover .slick-arrow.slick-next {
       right: 30px;
       left: auto; }
 
-.lezada-slick-slider--swimsuit-home {
+.Prasi-slick-slider--swimsuit-home {
   height: 840px; }
   @media only screen and (min-width: 1200px) and (max-width: 1499px) {
-    .lezada-slick-slider--swimsuit-home {
+    .Prasi-slick-slider--swimsuit-home {
       height: 800px; } }
   @media only screen and (min-width: 992px) and (max-width: 1199px) {
-    .lezada-slick-slider--swimsuit-home {
+    .Prasi-slick-slider--swimsuit-home {
       height: 750px; } }
   @media only screen and (max-width: 479px) {
-    .lezada-slick-slider--swimsuit-home {
+    .Prasi-slick-slider--swimsuit-home {
       height: 550px; } }
-  .lezada-slick-slider--swimsuit-home .slick-list, .lezada-slick-slider--swimsuit-home .slick-track, .lezada-slick-slider--swimsuit-home .slick-slide > div {
+  .Prasi-slick-slider--swimsuit-home .slick-list, .Prasi-slick-slider--swimsuit-home .slick-track, .Prasi-slick-slider--swimsuit-home .slick-slide > div {
     height: 100%; }
-  .lezada-slick-slider--swimsuit-home .lezada-single-slider__content {
+  .Prasi-slick-slider--swimsuit-home .Prasi-single-slider__content {
     padding-left: 30px;
     padding-right: 30px; }
-    .lezada-slick-slider--swimsuit-home .lezada-single-slider__content .swimsuit-home {
+    .Prasi-slick-slider--swimsuit-home .Prasi-single-slider__content .swimsuit-home {
       width: 100%;
       height: 100%; }
-      .lezada-slick-slider--swimsuit-home .lezada-single-slider__content .swimsuit-home .image {
+      .Prasi-slick-slider--swimsuit-home .Prasi-single-slider__content .swimsuit-home .image {
         margin-bottom: 30px; }
-        .lezada-slick-slider--swimsuit-home .lezada-single-slider__content .swimsuit-home .image img {
+        .Prasi-slick-slider--swimsuit-home .Prasi-single-slider__content .swimsuit-home .image img {
           margin-left: auto;
           margin-right: auto; }
-      .lezada-slick-slider--swimsuit-home .lezada-single-slider__content .swimsuit-home .content .title {
+      .Prasi-slick-slider--swimsuit-home .Prasi-single-slider__content .swimsuit-home .content .title {
         color: #E75E47;
         font-size: 30px;
         font-weight: 400;
         margin-bottom: 15px; }
         @media only screen and (max-width: 479px) {
-          .lezada-slick-slider--swimsuit-home .lezada-single-slider__content .swimsuit-home .content .title {
+          .Prasi-slick-slider--swimsuit-home .Prasi-single-slider__content .swimsuit-home .content .title {
             font-size: 25px; } }
-      .lezada-slick-slider--swimsuit-home .lezada-single-slider__content .swimsuit-home .content .price {
+      .Prasi-slick-slider--swimsuit-home .Prasi-single-slider__content .swimsuit-home .content .price {
         color: #E75E47;
         font-size: 17px;
         font-weight: 600; }
-  .lezada-slick-slider--swimsuit-home .slick-dots {
+  .Prasi-slick-slider--swimsuit-home .slick-dots {
     position: absolute;
     bottom: 30px;
     left: 30px; }
-    .lezada-slick-slider--swimsuit-home .slick-dots li {
+    .Prasi-slick-slider--swimsuit-home .slick-dots li {
       display: inline-block; }
-      .lezada-slick-slider--swimsuit-home .slick-dots li button {
+      .Prasi-slick-slider--swimsuit-home .slick-dots li button {
         background: none;
         border: none;
         background-color: #000;
@@ -4471,33 +4471,33 @@ nav.site-nav > ul > li {
         font-size: 0;
         margin-right: 5px;
         padding: 0; }
-      .lezada-slick-slider--swimsuit-home .slick-dots li.slick-active button {
+      .Prasi-slick-slider--swimsuit-home .slick-dots li.slick-active button {
         opacity: 1; }
 
-.slider-area--transparent-header .lezada-slick-slider--fullscreen {
+.slider-area--transparent-header .Prasi-slick-slider--fullscreen {
   height: 900px; }
   @media only screen and (min-width: 1200px) and (max-width: 1499px) {
-    .slider-area--transparent-header .lezada-slick-slider--fullscreen {
+    .slider-area--transparent-header .Prasi-slick-slider--fullscreen {
       height: 700px; } }
   @media only screen and (min-width: 992px) and (max-width: 1199px) {
-    .slider-area--transparent-header .lezada-slick-slider--fullscreen {
+    .slider-area--transparent-header .Prasi-slick-slider--fullscreen {
       height: 700px; } }
   @media only screen and (min-width: 768px) and (max-width: 991px) {
-    .slider-area--transparent-header .lezada-slick-slider--fullscreen {
+    .slider-area--transparent-header .Prasi-slick-slider--fullscreen {
       height: 600px; } }
   @media only screen and (max-width: 767px) {
-    .slider-area--transparent-header .lezada-slick-slider--fullscreen {
+    .slider-area--transparent-header .Prasi-slick-slider--fullscreen {
       height: 550px; } }
   @media only screen and (max-width: 479px) {
-    .slider-area--transparent-header .lezada-slick-slider--fullscreen {
+    .slider-area--transparent-header .Prasi-slick-slider--fullscreen {
       height: 500px; } }
 
-.lezada-single-slider--cover {
+.Prasi-single-slider--cover {
   background-size: cover; }
 
-.lezada-single-slider--overlay {
+.Prasi-single-slider--overlay {
   position: relative; }
-  .lezada-single-slider--overlay:before {
+  .Prasi-single-slider--overlay:before {
     position: absolute;
     top: 0;
     left: 0;
@@ -4995,7 +4995,7 @@ nav.site-nav > ul > li {
 =           08. button            =
 =============================================*/
 /*----------  default style  ----------*/
-.lezada-button {
+.Prasi-button {
   background-color: #333;
   color: #fff !important;
   text-transform: uppercase;
@@ -5009,33 +5009,33 @@ nav.site-nav > ul > li {
   /*----------  large button style  ----------*/
   /*----------  extra large button style  ----------*/
   /*----------  icon left style  ----------*/ }
-  .lezada-button:hover {
+  .Prasi-button:hover {
     background-color: transparent;
     color: #333 !important; }
-  .lezada-button--small {
+  .Prasi-button--small {
     font-size: 12px;
     padding: 8px 15px; }
-    .lezada-button--small--style2 {
+    .Prasi-button--small--style2 {
       padding: 7px 15px; }
-  .lezada-button--medium {
+  .Prasi-button--medium {
     font-size: 14px;
     padding: 10px 45px; }
-  .lezada-button--large {
+  .Prasi-button--large {
     font-size: 16px;
     padding: 12px 35px; }
-  .lezada-button--xl {
+  .Prasi-button--xl {
     font-size: 18px;
     padding: 20px 35px; }
-  .lezada-button--icon {
+  .Prasi-button--icon {
     /*----------  icon left style  ----------*/
     /*----------  icon right style  ----------*/ }
-    .lezada-button--icon--left i {
+    .Prasi-button--icon--left i {
       margin-right: 5px; }
-    .lezada-button--icon--right i {
+    .Prasi-button--icon--right i {
       margin-left: 5px; }
 
-/*----------  lezada button 2  ----------*/
-.lezada-button-2 {
+/*----------  Prasi button 2  ----------*/
+.Prasi-button-2 {
   text-transform: uppercase;
   font-size: 14px;
   line-height: 20px;
@@ -5044,7 +5044,7 @@ nav.site-nav > ul > li {
   letter-spacing: 1px;
   display: inline-block;
   position: relative; }
-  .lezada-button-2:after {
+  .Prasi-button-2:after {
     position: absolute;
     bottom: 0;
     left: 0;
@@ -5053,7 +5053,7 @@ nav.site-nav > ul > li {
     background-color: #333;
     opacity: 0.2;
     content: ""; }
-  .lezada-button-2:before {
+  .Prasi-button-2:before {
     font-size: 0;
     padding-right: 0;
     font-weight: 400;
@@ -5066,9 +5066,9 @@ nav.site-nav > ul > li {
     line-height: 0;
     content: "\f218";
     font-family: 'Ionicons'; }
-  .lezada-button-2:hover {
+  .Prasi-button-2:hover {
     color: #d3122a; }
-    .lezada-button-2:hover:before {
+    .Prasi-button-2:hover:before {
       font-size: 14px;
       line-height: 0;
       padding-right: 8px;
@@ -5076,13 +5076,13 @@ nav.site-nav > ul > li {
       opacity: 1; }
 
 /*----------  load more button  ----------*/
-.lezada-loadmore-button {
+.Prasi-loadmore-button {
   color: #333;
   letter-spacing: 1px;
   font-weight: 500; }
-  .lezada-loadmore-button:hover {
+  .Prasi-loadmore-button:hover {
     color: #333; }
-  .lezada-loadmore-button i {
+  .Prasi-loadmore-button i {
     display: inline-block;
     font-size: 16px;
     padding-right: 8px;
@@ -5090,7 +5090,7 @@ nav.site-nav > ul > li {
     color: #333; }
 
 /*----------  shopping more button  ----------*/
-.lezada-shopping-more-button {
+.Prasi-shopping-more-button {
   font-size: 14px;
   line-height: 18px;
   letter-spacing: 1px;
@@ -5101,7 +5101,7 @@ nav.site-nav > ul > li {
   -webkit-transition: 0.6s;
   -o-transition: 0.6s;
   transition: 0.6s; }
-  .lezada-shopping-more-button:hover {
+  .Prasi-shopping-more-button:hover {
     border-color: #333;
     color: #333; }
 
@@ -5163,10 +5163,10 @@ nav.site-nav > ul > li {
   background-image: url("../images/games-one/video-bg.png"); }
 
 .about-video-bg-8 {
-  background-image: url("https://demo.hasthemes.com/lezada-preview/lezada/assets/images/games-two/video-bg.png"); }
+  background-image: url("https://demo.hasthemes.com/Prasi-preview/Prasi/assets/images/games-two/video-bg.png"); }
 
 .about-video-bg-9 {
-  background-image: url("https://demo.hasthemes.com/lezada-preview/lezada/assets/images/health-four/video-bg.jpg"); }
+  background-image: url("https://demo.hasthemes.com/Prasi-preview/Prasi/assets/images/health-four/video-bg.jpg"); }
 
 /*----------  countdown backgrounds  ----------*/
 .countdown-bg-1 {
@@ -5219,7 +5219,7 @@ nav.site-nav > ul > li {
   background-size: cover; }
 
 .testimonial-bg-6 {
-  background-image: url("https://demo.hasthemes.com/lezada-preview/lezada/assets/images/pottery-one/testimonial-bg.jpg");
+  background-image: url("https://demo.hasthemes.com/Prasi-preview/Prasi/assets/images/pottery-one/testimonial-bg.jpg");
   background-repeat: no-repeat;
   background-size: cover; }
 
@@ -5455,11 +5455,11 @@ nav.site-nav > ul > li {
       font-size: 28px;
       line-height: 38px; } }
 
-.countdown-wrapper--style2 a.lezada-button:hover {
+.countdown-wrapper--style2 a.Prasi-button:hover {
   border-color: #ffffff;
   color: #ffffff !important; }
 
-.countdown-wrapper--white-bg a.lezada-button:hover {
+.countdown-wrapper--white-bg a.Prasi-button:hover {
   border-color: #000000;
   color: #000000 !important; }
 
@@ -6424,14 +6424,14 @@ nav.site-nav > ul > li {
 =            17. widget            =
 =============================================*/
 /*----------  default  ----------*/
-.lezada-widget {
+.Prasi-widget {
   /*----------  widget title  ----------*/ }
-  .lezada-widget .widget-title {
+  .Prasi-widget .widget-title {
     font-size: 14px;
     line-height: 24px;
     font-weight: 500;
     color: #333; }
-  .lezada-widget .widget-content {
+  .Prasi-widget .widget-content {
     font-size: 15px;
     line-height: 26px;
     color: #7e7e7e;
@@ -6730,7 +6730,7 @@ nav.site-nav > ul > li {
               line-height: 32px; } }
           .single-banner--hoverzoom > a .banner-content--banner-type .name span {
             display: block; }
-        .single-banner--hoverzoom > a .banner-content--banner-type .lezada-button-link {
+        .single-banner--hoverzoom > a .banner-content--banner-type .Prasi-button-link {
           position: relative;
           text-transform: none;
           background-color: transparent;
@@ -6742,7 +6742,7 @@ nav.site-nav > ul > li {
           letter-spacing: 1px;
           color: #333;
           padding-bottom: 3px; }
-          .single-banner--hoverzoom > a .banner-content--banner-type .lezada-button-link:after {
+          .single-banner--hoverzoom > a .banner-content--banner-type .Prasi-button-link:after {
             content: '';
             position: absolute;
             bottom: 0;
@@ -6750,9 +6750,9 @@ nav.site-nav > ul > li {
             width: 100%;
             height: 1px;
             background-color: #333; }
-          .single-banner--hoverzoom > a .banner-content--banner-type .lezada-button-link:hover {
+          .single-banner--hoverzoom > a .banner-content--banner-type .Prasi-button-link:hover {
             color: #d3122a; }
-            .single-banner--hoverzoom > a .banner-content--banner-type .lezada-button-link:hover:after {
+            .single-banner--hoverzoom > a .banner-content--banner-type .Prasi-button-link:hover:after {
               background-color: #d3122a; }
   .single-banner--hoverborder {
     position: relative;
@@ -7123,7 +7123,7 @@ nav.site-nav > ul > li {
       .fashion-home-intro h2.title {
         font-size: 38px;
         line-height: 65px; } }
-  .fashion-home-intro a.lezada-shop-link {
+  .fashion-home-intro a.Prasi-shop-link {
     font-size: 14px;
     line-height: 18px;
     color: #333;
@@ -7131,7 +7131,7 @@ nav.site-nav > ul > li {
     letter-spacing: 1px;
     text-transform: uppercase;
     border-bottom: 1px solid #D6D6D6; }
-    .fashion-home-intro a.lezada-shop-link:hover {
+    .fashion-home-intro a.Prasi-shop-link:hover {
       border-color: #333; }
 
 /*----------  product size  ----------*/
@@ -7187,7 +7187,7 @@ nav.site-nav > ul > li {
       .cosmetics-home-intro h2.title {
         font-size: 32px;
         line-height: 55px; } }
-  .cosmetics-home-intro a.lezada-shop-link {
+  .cosmetics-home-intro a.Prasi-shop-link {
     font-size: 14px;
     line-height: 18px;
     color: #333;
@@ -7195,7 +7195,7 @@ nav.site-nav > ul > li {
     letter-spacing: 1px;
     text-transform: uppercase;
     border-bottom: 1px solid #D6D6D6; }
-    .cosmetics-home-intro a.lezada-shop-link:hover {
+    .cosmetics-home-intro a.Prasi-shop-link:hover {
       border-color: #333; }
 
 /*=====  End of 24. cosmetics home  ======*/
@@ -7690,7 +7690,7 @@ nav.site-nav > ul > li {
   /*----------  long description  ----------*/
   /*----------  additional information  ----------*/
   /*----------  review section     ----------*/
-  /*----------  lezada form review  ----------*/
+  /*----------  Prasi form review  ----------*/
   /*----------  shop product image gallery  ----------*/
   /*----------  variation image  ----------*/
   /*----------  extra info area  ----------*/
@@ -7741,7 +7741,7 @@ nav.site-nav > ul > li {
   .shop-product__short-desc {
     font-size: 15px;
     line-height: 24px; }
-  .shop-product__buttons .lezada-compare-button {
+  .shop-product__buttons .Prasi-compare-button {
     font-size: 0;
     display: inline-block;
     height: 44px;
@@ -7749,14 +7749,14 @@ nav.site-nav > ul > li {
     line-height: 40px;
     text-align: center;
     border: 1px solid #d8d8d8; }
-    .shop-product__buttons .lezada-compare-button i {
+    .shop-product__buttons .Prasi-compare-button i {
       font-size: 20px;
       color: #ababab;
       line-height: 40px; }
-    .shop-product__buttons .lezada-compare-button:hover {
+    .shop-product__buttons .Prasi-compare-button:hover {
       background-color: #333;
       border-color: #333; }
-      .shop-product__buttons .lezada-compare-button:hover i {
+      .shop-product__buttons .Prasi-compare-button:hover i {
         color: #fff; }
   .shop-product__block {
     display: -webkit-box;
@@ -7877,14 +7877,14 @@ nav.site-nav > ul > li {
       color: #333;
       font-weight: 400;
       text-align: center; }
-  .shop-product .lezada-form--review .rating-title {
+  .shop-product .Prasi-form--review .rating-title {
     font-size: 14px;
     line-height: 25px;
     letter-spacing: 1px;
     text-transform: uppercase;
     font-weight: 500;
     color: #333; }
-  .shop-product .lezada-form--review .product-rating i {
+  .shop-product .Prasi-form--review .product-rating i {
     cursor: pointer; }
   .shop-product .shop-product__big-image-gallery-wrapper {
     position: relative;
@@ -8814,11 +8814,11 @@ nav.site-nav > ul > li {
       font-size: 28px;
       line-height: 32px; } }
 
-.lezada-cta-button {
+.Prasi-cta-button {
   background-color: #fff;
   color: #333 !important;
   border-color: #fff; }
-  .lezada-cta-button:hover {
+  .Prasi-cta-button:hover {
     background-color: #333;
     color: #fff !important;
     border-color: #333; }
