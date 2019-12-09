@@ -1506,7 +1506,7 @@ nav.site-nav > ul > li {
         left: 45%; } }
     @media only screen and (min-width: 992px) and (max-width: 1199px) {
       .header-split .header-bottom .header-bottom-container .logo-with-offcanvas .logo {
-        left: 36%; } }
+        left: 45%; } }
     @media only screen and (min-width: 768px) and (max-width: 991px) {
       .header-split .header-bottom .header-bottom-container .logo-with-offcanvas .logo {
         position: relative;
